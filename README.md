@@ -6,4 +6,5 @@ komponen A, B, dan C maka kita bisa mengaturnya seperti , A berada dibawah B, da
 di samping kanan/kiri A dan sebagainya. Intinya adalah komponen satu dan lainnya saling
 berkaitan.
 ### Screenshot
-> 
+> ![p2](https://user-images.githubusercontent.com/54633534/107318973-7692b500-6ad0-11eb-9087-3f8cffa46a90.jpg)
+
